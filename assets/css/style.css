@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: beige;
+    text-align: center;    
+}
+button{
+    background-color: lightseagreen;
+    color: white;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#random-number, #user-number{
+    font-size: 3rem;
+}
